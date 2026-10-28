@@ -22,6 +22,9 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - run: node .github/scripts/add-month-labels.mjs profile-3d-contrib/profile-night-view.svg profile-3d-contrib/profile-green-animate.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
