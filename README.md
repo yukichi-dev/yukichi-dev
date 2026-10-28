@@ -20,12 +20,12 @@
 
 </div>
 
-## 🐍 Contribution Snake
+## 🌱 Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuki-kondo-bk/yuki-kondo-bk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuki-kondo-bk/yuki-kondo-bk/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/yuki-kondo-bk/yuki-kondo-bk/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuki-kondo-bk/yuki-kondo-bk/output/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuki-kondo-bk/yuki-kondo-bk/output/profile-green-animate.svg" />
+  <img alt="3D contributions" src="https://raw.githubusercontent.com/yuki-kondo-bk/yuki-kondo-bk/output/profile-green-animate.svg" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" width="100%" alt="" />
